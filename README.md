@@ -7,13 +7,13 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-690690%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-690740%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,512 Contributions in the Year 2021
+> 🏆 1,515 Contributions in the Year 2021
  > 
 > 📦 474.1 kB Used in Github's Storage 
  > 
@@ -73,11 +73,11 @@ Mac                      14 hrs 41 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               32 repos            █████████████░░░░░░░░░░░░   55.17% 
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
+JavaScript               33 repos            ██████████████░░░░░░░░░░░   55.93% 
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.78% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.08%
 
 ```
 
